@@ -36,11 +36,10 @@ RECIPIENTS = ['rfyiamcool@163.com']
 
 ```
 
-2. python Urlmonitor.py
+2. python url_monitor.py
 3. open mailindex to check alert mail
 
--------
-TODO:
+## TODO:
 
 websocket实时页面
 自定义其他的类型的探测
